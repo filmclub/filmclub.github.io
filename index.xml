@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 20:53:24 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#11 Apollo 11</title>
+      <link>https://filmclub.github.io/films/apollo-11/</link>
+      <pubDate>Mon, 01 Jul 2019 20:53:24 +0200</pubDate>
+      
+      <guid>https://filmclub.github.io/films/apollo-11/</guid>
+      <description> Kinepolis https://kinepolis.be/nl/events/docu-apollo-11
+https://www.apollo11movie.com/
+  </description>
+    </item>
     
     <item>
       <title>#10 Solaris</title>
