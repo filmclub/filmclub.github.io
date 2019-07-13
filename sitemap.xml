@@ -3,20 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://filmclub.brussels/films/apollo-11/</loc>
-    <lastmod>2019-07-08T20:53:24+02:00</lastmod>
+    <loc>https://filmclub.brussels/films/de-patrick/</loc>
+    <lastmod>2019-08-28T21:45:45+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/films/</loc>
-    <lastmod>2019-07-08T20:53:24+02:00</lastmod>
+    <lastmod>2019-08-28T21:45:45+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/</loc>
-    <lastmod>2019-07-08T20:53:24+02:00</lastmod>
+    <lastmod>2019-08-28T21:45:45+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/films/once-upon-a-time-in-hollywood/</loc>
+    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/films/le-daim/</loc>
+    <lastmod>2019-07-18T19:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/films/apollo-11/</loc>
+    <lastmod>2019-07-08T20:53:24+02:00</lastmod>
   </url>
   
   <url>
