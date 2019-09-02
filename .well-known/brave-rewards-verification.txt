@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: filmclub.brussels
+Token: 3b41ea850dcbf8353a6e4ce95c8e52f30e04348e73fbfbb18bf6216a95b74e2b
