@@ -8,15 +8,13 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/</loc>
+    <loc>https://filmclub.brussels/</loc>
     <lastmod>2019-09-25T23:05:54+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/</loc>
+    <loc>https://filmclub.brussels/films/</loc>
     <lastmod>2019-09-25T23:05:54+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -35,33 +33,28 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/leden/</loc>
-    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://filmclub.brussels/leden/ado/</loc>
     <lastmod>2019-08-14T21:43:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/bdu/</loc>
     <lastmod>2019-08-14T21:43:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/has/</loc>
     <lastmod>2019-08-14T21:43:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/kve/</loc>
     <lastmod>2019-08-14T21:43:43+02:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/</loc>
+    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
   </url>
   
   <url>
@@ -82,13 +75,11 @@
   <url>
     <loc>https://filmclub.brussels/leden/nam/</loc>
     <lastmod>2019-07-08T20:53:24+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/sto/</loc>
     <lastmod>2019-07-08T20:53:24+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -104,7 +95,6 @@
   <url>
     <loc>https://filmclub.brussels/leden/mva/</loc>
     <lastmod>2019-06-18T20:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -115,13 +105,11 @@
   <url>
     <loc>https://filmclub.brussels/leden/jan/</loc>
     <lastmod>2019-05-30T20:24:17+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/kva/</loc>
     <lastmod>2019-05-30T20:24:17+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -137,7 +125,6 @@
   <url>
     <loc>https://filmclub.brussels/blog/</loc>
     <lastmod>2019-04-29T20:17:59+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
