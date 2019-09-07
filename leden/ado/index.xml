@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ado on filmclub</title>
+    <link>https://filmclub.brussels/leden/ado/</link>
+    <description>Recent content in ado on filmclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>filmclub 2019</copyright>
+    <lastBuildDate>Wed, 14 Aug 2019 21:43:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://filmclub.brussels/leden/ado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#15 Once Upon a Time... in Hollywood</title>
+      <link>https://filmclub.brussels/films/once-upon-a-time-in-hollywood/</link>
+      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/films/once-upon-a-time-in-hollywood/</guid>
+      <description>&lt;h5 id=&#34;04-09-2019-20-30&#34;&gt;04/09/2019 20:30&lt;/h5&gt;
+
+&lt;p&gt;UGC De Brouckère&lt;/p&gt;
+
+&lt;p&gt;A faded television actor and his stunt double strive to
+achieve fame and success in the film industry during the
+final years of Hollywood&amp;rsquo;s Golden Age in 1969 Los Angeles.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leden on filmclub</title>
+    <link>https://filmclub.brussels/leden/</link>
+    <description>Recent content in Leden on filmclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>filmclub 2019</copyright>
+    <lastBuildDate>Wed, 14 Aug 2019 21:43:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://filmclub.brussels/leden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ado</title>
+      <link>https://filmclub.brussels/leden/ado/</link>
+      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/ado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bdu</title>
+      <link>https://filmclub.brussels/leden/bdu/</link>
+      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/bdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>has</title>
+      <link>https://filmclub.brussels/leden/has/</link>
+      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/has/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kve</title>
+      <link>https://filmclub.brussels/leden/kve/</link>
+      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/kve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nam</title>
+      <link>https://filmclub.brussels/leden/nam/</link>
+      <pubDate>Mon, 08 Jul 2019 20:53:24 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/nam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sto</title>
+      <link>https://filmclub.brussels/leden/sto/</link>
+      <pubDate>Mon, 08 Jul 2019 20:53:24 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/sto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mva</title>
+      <link>https://filmclub.brussels/leden/mva/</link>
+      <pubDate>Tue, 18 Jun 2019 20:00:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/mva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jan</title>
+      <link>https://filmclub.brussels/leden/jan/</link>
+      <pubDate>Thu, 30 May 2019 20:24:17 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/jan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kva</title>
+      <link>https://filmclub.brussels/leden/kva/</link>
+      <pubDate>Thu, 30 May 2019 20:24:17 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/kva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -35,6 +35,36 @@
   </url>
   
   <url>
+    <loc>https://filmclub.brussels/leden/</loc>
+    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/ado/</loc>
+    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/bdu/</loc>
+    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/has/</loc>
+    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/kve/</loc>
+    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://filmclub.brussels/films/so-long-my-son/</loc>
     <lastmod>2019-07-25T20:30:42+02:00</lastmod>
   </url>
@@ -50,6 +80,18 @@
   </url>
   
   <url>
+    <loc>https://filmclub.brussels/leden/nam/</loc>
+    <lastmod>2019-07-08T20:53:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/sto/</loc>
+    <lastmod>2019-07-08T20:53:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://filmclub.brussels/films/it-must-be-heaven/</loc>
     <lastmod>2019-06-20T20:00:27+02:00</lastmod>
   </url>
@@ -60,8 +102,26 @@
   </url>
   
   <url>
+    <loc>https://filmclub.brussels/leden/mva/</loc>
+    <lastmod>2019-06-18T20:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://filmclub.brussels/films/dolor-y-gloria/</loc>
     <lastmod>2019-05-30T20:24:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/jan/</loc>
+    <lastmod>2019-05-30T20:24:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/kva/</loc>
+    <lastmod>2019-05-30T20:24:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -113,16 +173,6 @@
   <url>
     <loc>https://filmclub.brussels/films/roma/</loc>
     <lastmod>2019-03-29T11:24:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

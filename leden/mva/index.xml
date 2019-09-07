@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mva on filmclub</title>
+    <link>https://filmclub.brussels/leden/mva/</link>
+    <description>Recent content in mva on filmclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>filmclub 2019</copyright>
+    <lastBuildDate>Tue, 18 Jun 2019 20:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://filmclub.brussels/leden/mva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#10 Solaris</title>
+      <link>https://filmclub.brussels/films/solaris/</link>
+      <pubDate>Tue, 18 Jun 2019 20:00:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/films/solaris/</guid>
+      <description>&lt;h5 id=&#34;18-06-2019-20-00&#34;&gt;18/06/2019 - 20:00&lt;/h5&gt;
+
+&lt;p&gt;Flagey studio 5&lt;/p&gt;
+
+&lt;p&gt;Een psycholoog wordt naar een ruimtestation gestuurd, dat in een baan rond
+een verre planeet cirkelt, om te ontdekken waarom de bemanning gek wordt…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>#8 Escape From New York</title>
+      <link>https://filmclub.brussels/films/escape-from-new-york/</link>
+      <pubDate>Tue, 28 May 2019 13:14:44 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/films/escape-from-new-york/</guid>
+      <description>&lt;h5 id=&#34;28-05-2019-21-30&#34;&gt;28/05/2019 - 21:30&lt;/h5&gt;
+
+&lt;p&gt;Flagey studio 5&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>#6 Us</title>
+      <link>https://filmclub.brussels/films/us/</link>
+      <pubDate>Mon, 29 Apr 2019 13:13:20 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/films/us/</guid>
+      <description>&lt;h5 id=&#34;29-04-2019-21-30&#34;&gt;29/04/2019 - 21:30&lt;/h5&gt;
+
+&lt;p&gt;Cinema Aventure&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>#2 Hellhole</title>
+      <link>https://filmclub.brussels/films/hellhole/</link>
+      <pubDate>Tue, 02 Apr 2019 13:00:55 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/films/hellhole/</guid>
+      <description>&lt;h5 id=&#34;02-04-2019-21-40&#34;&gt;02/04/2019 - 21:40&lt;/h5&gt;
+
+&lt;p&gt;Cinema Palace&lt;/p&gt;
+
+&lt;p&gt;Hellhole gaat over drie mensen die de gevolgen van de aanslagen
+in Brussel in 2016 te boven proberen te komen.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
