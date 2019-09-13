@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 21:43:43 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 21:45:45 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ado</title>
-      <link>https://filmclub.brussels/leden/ado/</link>
-      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/leden/ado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bdu</title>
       <link>https://filmclub.brussels/leden/bdu/</link>
-      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
+      <pubDate>Wed, 28 Aug 2019 21:45:45 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/bdu/</guid>
       <description></description>
@@ -33,9 +24,18 @@
     <item>
       <title>has</title>
       <link>https://filmclub.brussels/leden/has/</link>
-      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
+      <pubDate>Wed, 28 Aug 2019 21:45:45 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/has/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ado</title>
+      <link>https://filmclub.brussels/leden/ado/</link>
+      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/ado/</guid>
       <description></description>
     </item>
     
