@@ -3,48 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://filmclub.brussels/films/ad-astra/</loc>
-    <lastmod>2019-09-25T23:05:54+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://filmclub.brussels/</loc>
     <lastmod>2019-09-25T23:05:54+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/</loc>
+    <loc>https://filmclub.brussels/gepland/</loc>
     <lastmod>2019-09-25T23:05:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/parasite/</loc>
-    <lastmod>2019-09-19T21:00:02+02:00</lastmod>
+    <loc>https://filmclub.brussels/gepland/ad-astra/</loc>
+    <lastmod>2019-09-25T23:05:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/de-patrick/</loc>
-    <lastmod>2019-08-28T21:45:45+02:00</lastmod>
+    <loc>https://filmclub.brussels/gepland/parasite/</loc>
+    <lastmod>2019-09-19T21:35:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/archief/</loc>
+    <lastmod>2019-09-12T19:15:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/bdu/</loc>
-    <lastmod>2019-08-28T21:45:45+02:00</lastmod>
+    <lastmod>2019-09-12T19:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/archief/de-patrick/</loc>
+    <lastmod>2019-09-12T19:15:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/has/</loc>
-    <lastmod>2019-08-28T21:45:45+02:00</lastmod>
+    <lastmod>2019-09-12T19:15:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/</loc>
-    <lastmod>2019-08-28T21:45:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/films/once-upon-a-time-in-hollywood/</loc>
-    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
+    <lastmod>2019-09-12T19:15:00+02:00</lastmod>
   </url>
   
   <url>
@@ -58,17 +59,22 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/so-long-my-son/</loc>
+    <loc>https://filmclub.brussels/archief/once-upon-a-time-in-hollywood/</loc>
+    <lastmod>2019-08-14T21:43:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/archief/so-long-my-son/</loc>
     <lastmod>2019-07-25T20:30:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/le-daim/</loc>
+    <loc>https://filmclub.brussels/archief/le-daim/</loc>
     <lastmod>2019-07-22T19:45:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/apollo-11/</loc>
+    <loc>https://filmclub.brussels/archief/apollo-11/</loc>
     <lastmod>2019-07-08T20:53:24+02:00</lastmod>
   </url>
   
@@ -83,13 +89,8 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/it-must-be-heaven/</loc>
+    <loc>https://filmclub.brussels/archief/it-must-be-heaven/</loc>
     <lastmod>2019-06-20T20:00:27+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/films/solaris/</loc>
-    <lastmod>2019-06-18T20:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -98,7 +99,12 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/dolor-y-gloria/</loc>
+    <loc>https://filmclub.brussels/archief/solaris/</loc>
+    <lastmod>2019-06-18T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/archief/dolor-y-gloria/</loc>
     <lastmod>2019-05-30T20:24:17+02:00</lastmod>
   </url>
   
@@ -113,12 +119,12 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/escape-from-new-york/</loc>
+    <loc>https://filmclub.brussels/archief/escape-from-new-york/</loc>
     <lastmod>2019-05-28T13:14:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/apocalypse-now/</loc>
+    <loc>https://filmclub.brussels/archief/apocalypse-now/</loc>
     <lastmod>2019-05-07T08:07:20+02:00</lastmod>
   </url>
   
@@ -133,33 +139,38 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/us/</loc>
+    <loc>https://filmclub.brussels/archief/us/</loc>
     <lastmod>2019-04-29T13:13:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/freaks/</loc>
+    <loc>https://filmclub.brussels/archief/freaks/</loc>
     <lastmod>2019-04-20T10:24:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/bodies-at-rest/</loc>
+    <loc>https://filmclub.brussels/archief/bodies-at-rest/</loc>
     <lastmod>2019-04-17T10:24:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/lost-highway/</loc>
+    <loc>https://filmclub.brussels/archief/lost-highway/</loc>
     <lastmod>2019-04-02T13:12:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/hellhole/</loc>
+    <loc>https://filmclub.brussels/archief/hellhole/</loc>
     <lastmod>2019-04-02T13:00:55+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/films/roma/</loc>
+    <loc>https://filmclub.brussels/archief/roma/</loc>
     <lastmod>2019-03-29T11:24:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/vraag/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
