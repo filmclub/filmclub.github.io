@@ -4,22 +4,27 @@
   
   <url>
     <loc>https://filmclub.brussels/</loc>
-    <lastmod>2019-10-21T21:25:00+02:00</lastmod>
+    <lastmod>2019-11-17T20:10:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/gepland/</loc>
-    <lastmod>2019-10-21T21:25:00+02:00</lastmod>
+    <lastmod>2019-11-17T20:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/bacurau/</loc>
-    <lastmod>2019-10-21T21:25:00+02:00</lastmod>
+    <loc>https://filmclub.brussels/gepland/the-irishman/</loc>
+    <lastmod>2019-11-17T20:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/ad-astra/</loc>
+    <loc>https://filmclub.brussels/archief/</loc>
+    <lastmod>2019-10-17T21:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/archief/ad-astra/</loc>
     <lastmod>2019-10-17T21:20:00+02:00</lastmod>
   </url>
   
@@ -54,13 +59,8 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/joker/</loc>
+    <loc>https://filmclub.brussels/archief/joker/</loc>
     <lastmod>2019-10-01T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/archief/</loc>
-    <lastmod>2019-09-19T21:30:00+02:00</lastmod>
   </url>
   
   <url>
