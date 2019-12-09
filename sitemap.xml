@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://filmclub.brussels/</loc>
-    <lastmod>2019-12-14T19:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
   
   <url>
     <loc>https://filmclub.brussels/gepland/</loc>
@@ -209,13 +203,13 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/archief/roma/</loc>
-    <lastmod>2019-03-29T11:24:30+02:00</lastmod>
+    <loc>https://filmclub.brussels/</loc>
+    <lastmod>2019-04-01T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/vraag/</loc>
-    <priority>0</priority>
+    <loc>https://filmclub.brussels/archief/roma/</loc>
+    <lastmod>2019-03-29T11:24:30+02:00</lastmod>
   </url>
   
 </urlset>
