@@ -3,32 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://filmclub.brussels/gepland/</loc>
-    <lastmod>2019-12-14T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/gepland/taxi-driver/</loc>
-    <lastmod>2019-12-14T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://filmclub.brussels/archief/</loc>
-    <lastmod>2019-12-05T21:30:00+02:00</lastmod>
+    <lastmod>2019-12-14T21:50:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/bdu/</loc>
-    <lastmod>2019-12-05T21:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/has/</loc>
-    <lastmod>2019-12-05T21:30:00+02:00</lastmod>
+    <lastmod>2019-12-14T21:50:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/</loc>
+    <lastmod>2019-12-14T21:50:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/archief/les-miserables/</loc>
+    <lastmod>2019-12-14T21:50:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/has/</loc>
     <lastmod>2019-12-05T21:30:00+02:00</lastmod>
   </url>
   
@@ -43,8 +38,8 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/les-miserables/</loc>
-    <lastmod>2019-12-02T21:00:00+02:00</lastmod>
+    <loc>https://filmclub.brussels/gepland/</loc>
+    <lastmod>2019-12-01T21:40:00+02:00</lastmod>
   </url>
   
   <url>

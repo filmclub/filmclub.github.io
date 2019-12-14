@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Thu, 05 Dec 2019 21:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2019 21:50:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/archief/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Les Misérables</title>
+      <link>https://filmclub.brussels/archief/les-miserables/</link>
+      <pubDate>Sat, 14 Dec 2019 21:50:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/archief/les-miserables/</guid>
+      <description>&lt;h5 id=&#34;14122019-2120&#34;&gt;14/12/2019 21:20&lt;/h5&gt;
+&lt;p&gt;Cinema Palace&lt;/p&gt;
+&lt;p&gt;Stéphane, nog maar net verhuisd van Cherbourg naar Parijs, komt terecht in de
+anti-criminaliteitsbrigade van Montfermeil in het 93ste arrondissement.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Marriage Story</title>
