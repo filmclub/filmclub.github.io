@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Sat, 14 Dec 2019 21:50:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2019 20:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/bdu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Il Traditore</title>
+      <link>https://filmclub.brussels/archief/il-traditore/</link>
+      <pubDate>Fri, 27 Dec 2019 20:30:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/archief/il-traditore/</guid>
+      <description>&lt;h5 id=&#34;27122019-2030&#34;&gt;27/12/2019 20:30&lt;/h5&gt;
+&lt;p&gt;Cinema Palace&lt;/p&gt;
+&lt;p&gt;Begin jaren &amp;lsquo;80 bereikt de strijd tussen de verschillende maffiaclans in
+Italië een hoogtepunt. Tommaso Buscetta, een hooggeplaatst lid van de Cosa
+Nostra, duikt onder in Brazilië.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Les Misérables</title>
