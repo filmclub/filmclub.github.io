@@ -18,18 +18,23 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/1917/</loc>
+    <loc>https://filmclub.brussels/archief/</loc>
     <lastmod>2020-01-10T22:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/archief/</loc>
-    <lastmod>2020-01-03T21:30:00+02:00</lastmod>
+    <loc>https://filmclub.brussels/archief/1917/</loc>
+    <lastmod>2020-01-10T22:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/bdu/</loc>
-    <lastmod>2020-01-03T21:30:00+02:00</lastmod>
+    <lastmod>2020-01-10T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/</loc>
+    <lastmod>2020-01-10T22:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -39,11 +44,6 @@
   
   <url>
     <loc>https://filmclub.brussels/archief/ghost-tropic/</loc>
-    <lastmod>2020-01-03T21:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/</loc>
     <lastmod>2020-01-03T21:30:00+02:00</lastmod>
   </url>
   
