@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 21:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/ewa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Atlantique</title>
+      <link>https://filmclub.brussels/archief/atlantique/</link>
+      <pubDate>Sun, 12 Jan 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/archief/atlantique/</guid>
+      <description>&lt;h5 id=&#34;12012019-2105&#34;&gt;12/01/2019 21:05&lt;/h5&gt;
+&lt;p&gt;Cinema Galeries&lt;/p&gt;
+&lt;p&gt;De 17-jarige Ada uit Dakar wordt verliefd op Souleiman, maar is uitgehuwelijkt
+aan een andere man. Wanneer Souleiman plots verdwijnt, lijkt het erop dat hij
+de riskante boottocht naar Europa probeert te maken.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Ghost Tropic</title>
