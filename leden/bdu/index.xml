@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 19:15:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/bdu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Whistlers</title>
+      <link>https://filmclub.brussels/archief/the-whistlers/</link>
+      <pubDate>Sun, 19 Jan 2020 19:15:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/archief/the-whistlers/</guid>
+      <description>&lt;h5 id=&#34;19012020-1915&#34;&gt;19/01/2020 19:15&lt;/h5&gt;
+&lt;p&gt;Cinema Palace&lt;/p&gt;
+&lt;p&gt;Cristi is een politieagent in Boekarest die zich niet altijd netjes aan de wet
+houdt. Als hij door de beeldschone Gilda verleid wordt om aan een lucratieve
+overval mee te doen, moet hij zich met types inlaten die niet te vertrouwen zijn.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Atlantique</title>
@@ -302,19 +315,6 @@ in Brussel in 2016 te boven proberen te komen.&lt;/p&gt;</description>
       <guid>https://filmclub.brussels/archief/roma/</guid>
       <description>&lt;h5 id=&#34;29032019--2120&#34;&gt;29/03/2019 - 21:20&lt;/h5&gt;
 &lt;p&gt;Cinema Palace&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Whistlers</title>
-      <link>https://filmclub.brussels/archief/the-whistlers/</link>
-      <pubDate>Sat, 19 Jan 2019 19:15:00 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/archief/the-whistlers/</guid>
-      <description>&lt;h5 id=&#34;19012020-1915&#34;&gt;19/01/2020 19:15&lt;/h5&gt;
-&lt;p&gt;Cinema Palace&lt;/p&gt;
-&lt;p&gt;Cristi is een politieagent in Boekarest die zich niet altijd netjes aan de wet
-houdt. Als hij door de beeldschone Gilda verleid wordt om aan een lucratieve
-overval mee te doen, moet hij zich met types inlaten die niet te vertrouwen zijn.&lt;/p&gt;</description>
     </item>
     
   </channel>

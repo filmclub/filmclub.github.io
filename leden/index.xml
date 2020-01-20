@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 19:15:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ado</title>
+      <link>https://filmclub.brussels/leden/ado/</link>
+      <pubDate>Sun, 19 Jan 2020 19:15:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/ado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>bdu</title>
       <link>https://filmclub.brussels/leden/bdu/</link>
-      <pubDate>Sun, 12 Jan 2020 21:00:00 +0200</pubDate>
+      <pubDate>Sun, 19 Jan 2020 19:15:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/bdu/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>ewa</title>
       <link>https://filmclub.brussels/leden/ewa/</link>
-      <pubDate>Sun, 12 Jan 2020 21:00:00 +0200</pubDate>
+      <pubDate>Sun, 19 Jan 2020 19:15:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/ewa/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>has</title>
       <link>https://filmclub.brussels/leden/has/</link>
-      <pubDate>Thu, 05 Dec 2019 21:30:00 +0200</pubDate>
+      <pubDate>Sun, 19 Jan 2020 19:15:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/has/</guid>
       <description></description>
@@ -54,15 +63,6 @@
       <pubDate>Tue, 01 Oct 2019 20:00:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/fde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ado</title>
-      <link>https://filmclub.brussels/leden/ado/</link>
-      <pubDate>Wed, 14 Aug 2019 21:43:43 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/leden/ado/</guid>
       <description></description>
     </item>
     
