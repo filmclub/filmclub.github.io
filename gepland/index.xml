@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 21:40:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 19:15:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/gepland/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dark Waters</title>
+      <link>https://filmclub.brussels/gepland/dark-waters/</link>
+      <pubDate>Tue, 04 Feb 2020 19:15:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/gepland/dark-waters/</guid>
+      <description>&lt;h5 id=&#34;04022020-1915&#34;&gt;04/02/2020 19:15&lt;/h5&gt;
+&lt;p&gt;UGC De Brouckère&lt;/p&gt;
+&lt;p&gt;Duitsland, tijdens de Tweede Wereldoorlog. Jojo is een rare jongen die wordt
+opgevoed door een alleenstaande moeder en maar één bondgenoot heeft, zijn
+denkbeeldige vriend Adolf Hitler.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Jojo Rabbit</title>
@@ -35,20 +48,6 @@ denkbeeldige vriend Adolf Hitler.&lt;/p&gt;</description>
 &lt;p&gt;Dertig jaar na de burgeroorlog in Guatemala wordt de ex-generaal Enrique
 Monteverde, inmiddels een oude man die lijdt aan de ziekte van Alzheimer,
 berecht en schuldig bevonden voor zijn aandeel in de volkerenmoord.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>All Of Us</title>
-      <link>https://filmclub.brussels/gepland/all-of-us/</link>
-      <pubDate>Mon, 20 Jan 2020 21:40:00 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/gepland/all-of-us/</guid>
-      <description>&lt;h5 id=&#34;tbd&#34;&gt;TBD&lt;/h5&gt;
-&lt;p&gt;Kinepolis&lt;/p&gt;
-&lt;p&gt;All of us is het tragikomische verhaal van huisvrouw Cathy,
-die nog maar enkele maanden te leven heeft. Ze komt terecht in een zelfhulpgroep
-van terminaal zieke patiënten, geleid door therapeute Els die zelf in
-volle midlifecrisis zit.&lt;/p&gt;</description>
     </item>
     
   </channel>
