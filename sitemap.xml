@@ -3,33 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://filmclub.brussels/gepland/</loc>
+    <loc>https://filmclub.brussels/archief/</loc>
     <lastmod>2020-02-04T19:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/dark-waters/</loc>
+    <loc>https://filmclub.brussels/leden/bdu/</loc>
     <lastmod>2020-02-04T19:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/archief/dark-waters/</loc>
+    <lastmod>2020-02-04T19:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/has/</loc>
+    <lastmod>2020-02-04T19:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/</loc>
+    <lastmod>2020-02-04T19:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/</loc>
+    <lastmod>2020-02-01T21:40:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/gepland/jojo-rabbit/</loc>
     <lastmod>2020-02-01T21:40:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/archief/</loc>
-    <lastmod>2020-01-30T21:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/bdu/</loc>
-    <lastmod>2020-01-30T21:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/</loc>
-    <lastmod>2020-01-30T21:10:00+02:00</lastmod>
   </url>
   
   <url>
@@ -44,11 +49,6 @@
   
   <url>
     <loc>https://filmclub.brussels/archief/adoration/</loc>
-    <lastmod>2020-01-22T21:20:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/has/</loc>
     <lastmod>2020-01-22T21:20:00+02:00</lastmod>
   </url>
   
