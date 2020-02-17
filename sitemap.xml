@@ -38,12 +38,7 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/</loc>
-    <lastmod>2020-01-27T21:40:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/gepland/la-llorona/</loc>
+    <loc>https://filmclub.brussels/archief/la-llorona/</loc>
     <lastmod>2020-01-27T21:40:00+02:00</lastmod>
   </url>
   
@@ -250,6 +245,10 @@
   <url>
     <loc>https://filmclub.brussels/archief/roma/</loc>
     <lastmod>2019-03-29T11:24:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/</loc>
   </url>
   
 </urlset>
