@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://filmclub.brussels/gepland/</loc>
+    <lastmod>2020-04-11T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/les-visiteurs/</loc>
+    <lastmod>2020-04-11T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/just-before-dawn/</loc>
+    <lastmod>2020-03-19T21:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/the-matrix/</loc>
+    <lastmod>2020-03-16T20:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/sonatine/</loc>
+    <lastmod>2020-03-12T21:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/der-staat-gegen-fritz-bauer/</loc>
+    <lastmod>2020-03-03T21:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/official-secrets/</loc>
+    <lastmod>2020-02-28T21:50:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://filmclub.brussels/archief/</loc>
     <lastmod>2020-02-24T21:40:00+02:00</lastmod>
   </url>
@@ -250,10 +285,6 @@
   <url>
     <loc>https://filmclub.brussels/archief/roma/</loc>
     <lastmod>2019-03-29T11:24:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/gepland/</loc>
   </url>
   
 </urlset>
