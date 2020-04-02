@@ -7,24 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Sat, 11 Apr 2020 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/gepland/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Les Visiteurs</title>
-      <link>https://filmclub.brussels/gepland/les-visiteurs/</link>
-      <pubDate>Sat, 11 Apr 2020 20:00:00 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/gepland/les-visiteurs/</guid>
-      <description>&lt;h5 id=&#34;01042020-2000&#34;&gt;01/04/2020 20:00&lt;/h5&gt;
-&lt;h5 id=&#34;11042020-2000&#34;&gt;11/04/2020 20:00&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&#34;http://cinematek.be/?node=17&amp;amp;event_id=400938102&#34;&gt;Cinematek&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Regisseur Jean-Marie Poiré maakte met deze burleske fabel één van de grootste
-successen van de Franse cinema. Een ridder en zijn schildknaap worden vanuit
-de middeleeuwen naar onze tijd gekatapulteerd.&lt;/p&gt;</description>
-    </item>
     
   </channel>
 </rss>
