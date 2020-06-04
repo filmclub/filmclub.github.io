@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://filmclub.brussels/gepland/</loc>
+    <lastmod>2020-07-01T21:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/whatever/</loc>
+    <lastmod>2020-07-01T21:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://filmclub.brussels/archief/</loc>
     <lastmod>2020-03-12T21:30:00+02:00</lastmod>
   </url>
@@ -260,10 +270,6 @@
   <url>
     <loc>https://filmclub.brussels/archief/roma/</loc>
     <lastmod>2019-03-29T11:24:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/gepland/</loc>
   </url>
   
 </urlset>
