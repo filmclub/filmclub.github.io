@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 21:40:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title>bdu</title>
       <link>https://filmclub.brussels/leden/bdu/</link>
-      <pubDate>Thu, 02 Jul 2020 21:00:00 +0200</pubDate>
+      <pubDate>Fri, 03 Jul 2020 21:40:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/bdu/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>ewa</title>
+      <link>https://filmclub.brussels/leden/ewa/</link>
+      <pubDate>Fri, 03 Jul 2020 21:40:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/ewa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>has</title>
       <link>https://filmclub.brussels/leden/has/</link>
-      <pubDate>Mon, 24 Feb 2020 21:40:00 +0200</pubDate>
+      <pubDate>Fri, 03 Jul 2020 21:40:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/has/</guid>
       <description></description>
@@ -36,15 +45,6 @@
       <pubDate>Sun, 19 Jan 2020 19:15:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/ado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ewa</title>
-      <link>https://filmclub.brussels/leden/ewa/</link>
-      <pubDate>Sun, 19 Jan 2020 19:15:00 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/leden/ewa/</guid>
       <description></description>
     </item>
     
