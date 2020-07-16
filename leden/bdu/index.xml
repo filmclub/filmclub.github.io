@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Fri, 03 Jul 2020 21:40:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 21:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/bdu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Öndög</title>
+      <link>https://filmclub.brussels/archief/ondog/</link>
+      <pubDate>Wed, 15 Jul 2020 21:30:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/archief/ondog/</guid>
+      <description>&lt;h5 id=&#34;15072020-2130&#34;&gt;15/07/2020 21:30&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.galeries.be/ondog/&#34;&gt;Galeries&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Een overleden vrouw wordt gevonden in de uitgedroogde Mongoolse steppe.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Monos</title>
