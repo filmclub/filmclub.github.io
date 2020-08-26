@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Wed, 19 Aug 2020 21:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 21:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/bdu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Lighthouse</title>
+      <link>https://filmclub.brussels/archief/the-lighthouse/</link>
+      <pubDate>Tue, 25 Aug 2020 21:20:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/archief/the-lighthouse/</guid>
+      <description>&lt;h5 id=&#34;25082020-2120&#34;&gt;25/08/2020 21:20&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://cinema-aventure.be/index.php?mact=Agenda,cntnt01,DetailEvent,0&amp;amp;cntnt01id_event=3038&amp;amp;cntnt01returnid=45&#34;&gt;Cinema Aventure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Lighthouse verhaalt het leven, eind 19de eeuw, van twee geïsoleerde
+vuurtorenwachters die langzamerhand naar de waanzin afglijden.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>About Endlessness</title>
