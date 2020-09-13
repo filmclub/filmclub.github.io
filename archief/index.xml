@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Mon, 31 Aug 2020 21:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 21:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/archief/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Manuel de Libération</title>
+      <link>https://filmclub.brussels/archief/manuel-de-liberation/</link>
+      <pubDate>Sat, 12 Sep 2020 21:30:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/archief/manuel-de-liberation/</guid>
+      <description>&lt;h5 id=&#34;12-09-2020-2130&#34;&gt;12-09-2020 21:30&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nova-cinema.org/prog/2020/179-a-la-folie-waanzin/a-la-folie/#article-22941&#34;&gt;Cinema Nova&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alexander Kuznetsov levert een film met een sterk oog voor details, nauw
+betrokken bij het parcours van twee jonge vrouwen op zoek naar hun fundamentele
+rechten die door een diagnostische psychiatrie al van in hun kindertijd beknot
+werden, afgeblokt door de innig verstrengelde medische en juridische machinerie.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Honeyland</title>
