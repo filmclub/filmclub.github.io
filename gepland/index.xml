@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Thu, 29 Oct 2020 20:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/gepland/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Shining</title>
+      <link>https://filmclub.brussels/gepland/the-shining/</link>
+      <pubDate>Sat, 31 Oct 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/gepland/the-shining/</guid>
+      <description>&lt;h5 id=&#34;31102020-2100&#34;&gt;31/10/2020 21:00&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://cinema-palace.be/nl/evenementen/halloween-palace-shining-4k-extended-version&#34;&gt;Cinema Palace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jack Torrance krijgt een baan in het Overlook Hotel in de bergen van Colorado.
+De plek is dicht tijdens de winter, en Torrance en zijn familie zullen de
+enige bewoners zijn gedurende een lange tijd.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Sisters Brothers</title>
@@ -48,18 +61,6 @@ ontsproten aan de frustraties van het homo-zijn in een kleinburgerlijke samenlev
 &lt;p&gt;Terwijl hij zijn straf voor een tweedegraads moord uitzit in een gesloten
 jeugdinstelling, ervaart Daniel een religieuze roeping maar door zijn criminele
 verleden zal hij nooit priester kunnen worden.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>La Cravate</title>
-      <link>https://filmclub.brussels/gepland/la-cravate/</link>
-      <pubDate>Fri, 16 Oct 2020 21:30:00 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/gepland/la-cravate/</guid>
-      <description>&lt;h5 id=&#34;16102020-2130&#34;&gt;16/10/2020 21:30&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nova-cinema.org/prog/2020/179-a-la-folie-waanzin/la-cravate/&#34;&gt;Cinema Nova&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We spreken 2017 en de campagne voor de presidentsverkiezingen is in volle gang.
-Boegbeeld van extreemrechts Marine Le Pen staat op het punt de tweede ronde te halen.&lt;/p&gt;</description>
     </item>
     
   </channel>
