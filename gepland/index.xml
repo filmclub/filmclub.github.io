@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Wed, 12 May 2021 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/gepland/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TBD</title>
+      <link>https://filmclub.brussels/gepland/tbd/</link>
+      <pubDate>Wed, 09 Jun 2021 20:00:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/gepland/tbd/</guid>
+      <description>09/06/2021 20:00 TBD</description>
+    </item>
     
     <item>
       <title>Corpus Christi</title>
@@ -18,7 +27,7 @@
       <pubDate>Wed, 12 May 2021 20:00:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/gepland/corpus-christi/</guid>
-      <description>&lt;h5 id=&#34;12052020-2000&#34;&gt;12/05/2020 20:00&lt;/h5&gt;
+      <description>&lt;h5 id=&#34;12052021-2000&#34;&gt;12/05/2021 20:00&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&#34;https://galeries.be/en/corpus-christi-lux-audience-week/&#34;&gt;Galeries&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Terwijl hij zijn straf voor een tweedegraads moord uitzit in een gesloten
 jeugdinstelling, ervaart Daniel een religieuze roeping maar door zijn criminele
