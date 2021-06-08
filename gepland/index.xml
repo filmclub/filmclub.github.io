@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Wed, 30 Jun 2021 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/gepland/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mandibules</title>
+      <link>https://filmclub.brussels/gepland/mandibules/</link>
+      <pubDate>Thu, 01 Jul 2021 20:00:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/gepland/mandibules/</guid>
+      <description>&lt;h5 id=&#34;tbd&#34;&gt;TBD&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;https://cinema-palace.be/nl/film/mandibules-0&#34;&gt;Cinema Palace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jean-Gab en Manu zijn twee vrienden die niet bijster slim zijn.
+Als ze vervolgens een hele grote vlieg in een kofferbak van een
+gestolen auto vinden, willen ze het insect gaan trainen.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Minari</title>
