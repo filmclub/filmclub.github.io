@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://filmclub.brussels/gepland/</loc>
-    <lastmod>2021-07-01T20:00:00+02:00</lastmod>
+    <lastmod>2021-07-03T21:15:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/gepland/mandibules/</loc>
-    <lastmod>2021-07-01T20:00:00+02:00</lastmod>
+    <lastmod>2021-07-03T21:15:00+02:00</lastmod>
   </url>
   
   <url>
@@ -53,13 +53,18 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/drunk/</loc>
+    <loc>https://filmclub.brussels/archief/drunk/</loc>
     <lastmod>2021-06-12T20:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/leden/ewa/</loc>
-    <lastmod>2021-06-09T09:00:00+02:00</lastmod>
+    <lastmod>2021-06-12T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/fvi/</loc>
+    <lastmod>2021-06-12T20:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -134,11 +139,6 @@
   
   <url>
     <loc>https://filmclub.brussels/leden/aba/</loc>
-    <lastmod>2020-07-17T21:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/fvi/</loc>
     <lastmod>2020-07-17T21:30:00+02:00</lastmod>
   </url>
   
