@@ -3,28 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://filmclub.brussels/gepland/</loc>
+    <loc>https://filmclub.brussels/archief/</loc>
     <lastmod>2021-07-03T21:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/gepland/mandibules/</loc>
+    <loc>https://filmclub.brussels/leden/bdu/</loc>
     <lastmod>2021-07-03T21:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/ewa/</loc>
+    <lastmod>2021-07-03T21:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/</loc>
+    <lastmod>2021-07-03T21:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/archief/mandibules/</loc>
+    <lastmod>2021-07-03T21:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/leden/nam/</loc>
+    <lastmod>2021-07-03T21:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filmclub.brussels/gepland/</loc>
+    <lastmod>2021-06-30T20:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://filmclub.brussels/gepland/minari/</loc>
     <lastmod>2021-06-30T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/archief/</loc>
-    <lastmod>2021-06-28T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/bdu/</loc>
-    <lastmod>2021-06-28T20:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +49,6 @@
   
   <url>
     <loc>https://filmclub.brussels/leden/kbo/</loc>
-    <lastmod>2021-06-28T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/</loc>
     <lastmod>2021-06-28T20:00:00+02:00</lastmod>
   </url>
   
@@ -58,18 +68,8 @@
   </url>
   
   <url>
-    <loc>https://filmclub.brussels/leden/ewa/</loc>
-    <lastmod>2021-06-12T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://filmclub.brussels/leden/fvi/</loc>
     <lastmod>2021-06-12T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filmclub.brussels/leden/nam/</loc>
-    <lastmod>2021-06-09T09:00:00+02:00</lastmod>
   </url>
   
   <url>

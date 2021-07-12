@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019 - 2021</copyright>
-    <lastBuildDate>Mon, 28 Jun 2021 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 21:15:00 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.brussels/leden/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>bdu</title>
       <link>https://filmclub.brussels/leden/bdu/</link>
-      <pubDate>Mon, 28 Jun 2021 20:00:00 +0200</pubDate>
+      <pubDate>Sat, 03 Jul 2021 21:15:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/bdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ewa</title>
+      <link>https://filmclub.brussels/leden/ewa/</link>
+      <pubDate>Sat, 03 Jul 2021 21:15:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/ewa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nam</title>
+      <link>https://filmclub.brussels/leden/nam/</link>
+      <pubDate>Sat, 03 Jul 2021 21:15:00 +0200</pubDate>
+      
+      <guid>https://filmclub.brussels/leden/nam/</guid>
       <description></description>
     </item>
     
@@ -40,29 +58,11 @@
     </item>
     
     <item>
-      <title>ewa</title>
-      <link>https://filmclub.brussels/leden/ewa/</link>
-      <pubDate>Sat, 12 Jun 2021 20:00:00 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/leden/ewa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>fvi</title>
       <link>https://filmclub.brussels/leden/fvi/</link>
       <pubDate>Sat, 12 Jun 2021 20:00:00 +0200</pubDate>
       
       <guid>https://filmclub.brussels/leden/fvi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nam</title>
-      <link>https://filmclub.brussels/leden/nam/</link>
-      <pubDate>Wed, 09 Jun 2021 09:00:00 +0200</pubDate>
-      
-      <guid>https://filmclub.brussels/leden/nam/</guid>
       <description></description>
     </item>
     
